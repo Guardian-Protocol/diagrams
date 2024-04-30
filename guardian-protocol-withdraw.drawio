@@ -1,0 +1,102 @@
+<mxfile host="Electron" modified="2024-04-30T02:33:16.568Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="HqFdVkqLRW6uqqL1ZDMM" version="23.0.2" type="device">
+  <diagram name="Page-1" id="kdIWO4SCCWG92-WQuwtV">
+    <mxGraphModel dx="1434" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nIUQnWRtCqZMVD-CZRXd-3" target="nIUQnWRtCqZMVD-CZRXd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-3" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="88" y="675" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="nIUQnWRtCqZMVD-CZRXd-5" target="nIUQnWRtCqZMVD-CZRXd-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="705" />
+              <mxPoint x="425" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-5" value="Web page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="248" y="675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="nIUQnWRtCqZMVD-CZRXd-9" target="nIUQnWRtCqZMVD-CZRXd-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="575" y="625" />
+              <mxPoint x="575" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="nIUQnWRtCqZMVD-CZRXd-9" target="nIUQnWRtCqZMVD-CZRXd-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="558" y="815" />
+              <mxPoint x="55" y="815" />
+              <mxPoint x="55" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-9" value="Luiquidity contract" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-11" value="withdraw" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="143" y="705" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="nIUQnWRtCqZMVD-CZRXd-16" target="nIUQnWRtCqZMVD-CZRXd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="nIUQnWRtCqZMVD-CZRXd-16" target="nIUQnWRtCqZMVD-CZRXd-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="615" />
+              <mxPoint x="545" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-16" value="off-chain server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="503" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-17" value="withdraw signal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="605" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="nIUQnWRtCqZMVD-CZRXd-19" target="nIUQnWRtCqZMVD-CZRXd-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="285.0000000000001" />
+              <mxPoint x="460" y="485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-19" value="stakin pallet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="503" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-20" value="withdraw VARA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="375" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-21" value="validate era&lt;br&gt;delete unestake info&lt;br&gt;store transaction" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="675" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-22" value="withdraw action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="378" y="675" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-23" value="VARA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-24" value="transfer VARA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="545" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-26" value="validate era&lt;br&gt;transfer tokens to contract" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="465" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-28" value="transfer VARA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="815" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nIUQnWRtCqZMVD-CZRXd-29" value="validate era" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="263" y="645" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
